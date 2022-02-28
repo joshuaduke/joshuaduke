@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **joshuaduke/joshuaduke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello there, 
+I am a Computer programming and Analysis Graduate from Seneca College. My most recent experience was at TDSB as a Junior web Developer where I helped audit and fix web accessibility issues on over 500 web pages. 
+
+I enjoy learning new technologies but my preferred stack is MERN (mongoDB, Express, React, Node.js)

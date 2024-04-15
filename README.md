@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hello there, 
-I am a Computer programming and Analysis Graduate from Seneca College. My most recent experience was at TDSB as a Junior web Developer where I helped audit and fix web accessibility issues on over 500 web pages. 
-
-I enjoy learning new technologies but my preferred stack is MERN (mongoDB, Express, React, Node.js)
+Hello there, I currently am working as a developer at reSolved business solutions. I am also a Computer programming and Analysis Graduate from Seneca College. My preferred stack is MERN (mongoDB, Express, React, Node.js). I mainly work professionally as a Front End Developer but I like to dabble and do some Back End development work whwen I am working on a personal project. I enjoy learning and exploring new technologies.
 
 You can check out my portfolio at: 	[portfolio](https://www.joshuaduke.com/)

@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Joshua!
+# Hello there 👋, I'm Joshua!
 
 ## 🚀 About Me
 

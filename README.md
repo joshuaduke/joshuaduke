@@ -29,6 +29,7 @@ I am a Front-End Web Developer based in Mississauga, Ontario, Canada. with a str
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jemcap&show_icons=true&theme=radical" alt="[Your Name]'s GitHub stats" />
-  [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaduke)](https://github.com/joshuaduke/github-readme-stats)
 </p>
+
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaduke)](https://github.com/joshuaduke/github-readme-stats)
 

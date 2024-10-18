@@ -2,9 +2,10 @@
 
 ## 🚀 About Me
 
-I am a Front-End Web Developer based in Mississauga, Ontario, Canada. with a strong passion for problem-solving and design through code. With a background in Computer Programming and Analysis at Seneca College. I bring a keen eye for detail and a deep commitment to user-centric design and development. I find web development deeply rewarding as it allows me to transform concepts into functional, user-friendly applications. My preferred stack is MERN (mongoDB, Express, React, Node.js). I work professionally as a Software Developer but I like to dabble and do some Back End development work when I am working on a personal project. I enjoy learning and exploring new technologies.
+I am a Front-End Web Developer based in Cambridge, UK, with a strong passion for digital creativity and problem-solving through code. With a background in Product Design, I bring a keen eye for detail and a deep commitment to user-centric design and development. I find web development deeply rewarding as it allows me to transform concepts into functional, user-friendly applications. The ability to contribute to projects that enhance user experiences and make a positive impact online is what drives my commitment to this field.
 
 - 🌱 I’m currently learning **Python**, **React**, **Next.js**, **TypeScript**, **Backend Development**
+- 👯 I’m looking to collaborate on a **Full-Stack Web Application for an independent Gym business**
 - 💻 Connect with me!: **https://www.linkedin.com/in/joshua-duke/**
 - 📫 Reach out to me!: **joshuadukedev@gmail.com**
 - 👨🏻‍💻 Check out my Portfolio: **https://www.joshuaduke.com/**
@@ -31,5 +32,17 @@ I am a Front-End Web Developer based in Mississauga, Ontario, Canada. with a str
   <img src="https://github-readme-stats.vercel.app/api?username=jemcap&show_icons=true&theme=radical" alt="[Your Name]'s GitHub stats" />
 </p>
 
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaduke)](https://github.com/joshuaduke/github-readme-stats)
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaduke&show_icons=true&theme=radical)](https://github.com/joshuaduke/github-readme-stats)
 
+## 🏆 Achievements
+
+- 🥇 In 2022, I secured a position as a Software Developer at reSolved Business Solutions.
+- 🏆 In 2021, I Graduated from Seneca College with a Diploma in Computer Programming & Analysis.
+- 🌟 2020, Internship as a Web Developer at TDSB (Toronto District School Board)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/joshua-duke/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white&style=flat)](https://www.joshuaduke.com/)
+
+---

@@ -29,10 +29,8 @@ I am a Front-End Web Developer based in Cambridge, UK, with a strong passion for
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuaduke&show_icons=true&theme=radical" alt="[Your Name]'s GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshuaduke&show_icons=true&theme=radical" alt="Joshua Duke's GitHub stats" />
 </p>
-
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaduke&show_icons=true&theme=radical)](https://github.com/joshuaduke/github-readme-stats)
 
 ## 🏆 Achievements
 

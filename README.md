@@ -2,10 +2,9 @@
 
 ## 🚀 About Me
 
-I am a Front-End Web Developer based in Cambridge, UK, with a strong passion for digital creativity and problem-solving through code. With a background in Product Design, I bring a keen eye for detail and a deep commitment to user-centric design and development. I find web development deeply rewarding as it allows me to transform concepts into functional, user-friendly applications. The ability to contribute to projects that enhance user experiences and make a positive impact online is what drives my commitment to this field.
+I'm a Software Developer based in Toronto, Canada. I mainly specialize on the Frontend with aspirations to becoming a Fullstack Developer. I'm always exploring new challenges and opportunities to grow, constantly learning and finding creative ways to solve problems.
 
 - 🌱 I’m currently learning **Python**, **React**, **Next.js**, **TypeScript**, **Backend Development**
-- 👯 I’m looking to collaborate on a **Full-Stack Web Application for an independent Gym business**
 - 💻 Connect with me!: **https://www.linkedin.com/in/joshua-duke/**
 - 📫 Reach out to me!: **joshuadukedev@gmail.com**
 - 👨🏻‍💻 Check out my Portfolio: **https://www.joshuaduke.com/**

@@ -25,11 +25,6 @@ I'm currently workoing as a Developer based in Toronto, Canada. I mainly special
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuaduke&show_icons=true&theme=radical" alt="Joshua Duke's GitHub stats" />
-</p>
 
 ## 🏆 Achievements
 - 🏫 In 2025, I started university at Toronto Metropolitan University for my BSc in Computer Science.

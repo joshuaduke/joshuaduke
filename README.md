@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Software Developer based in Toronto, Canada. I mainly specialize on the Frontend with aspirations to becoming a Fullstack Developer. I'm always exploring new challenges and opportunities to grow, constantly learning and finding creative ways to solve problems.
+I'm currently workoing as a Developer based in Toronto, Canada. I mainly specialize on the Front-End while learning Back-End to become a Fullstack Developer. I'm a graduate from Seneca College where I studied Computer Programming and Analysis. Currently I'm studying at Toronto Metropolitan University for my Bsc in Computer Science. I'm always exploring new challenges and opportunities to grow, constantly learning and finding creative ways to solve problems.
 
 - 🌱 I’m currently learning **Python**, **React**, **Next.js**, **TypeScript**, **Backend Development**
 - 💻 Connect with me!: **https://www.linkedin.com/in/joshua-duke/**
@@ -32,9 +32,9 @@ I'm a Software Developer based in Toronto, Canada. I mainly specialize on the Fr
 </p>
 
 ## 🏆 Achievements
-
+- 🏫 In 2025, I started university at Toronto Metropolitan University for my BSc in Computer Science.
 - 🥇 In 2022, I secured a position as a Software Developer at reSolved Business Solutions.
-- 🏆 In 2021, I Graduated from Seneca College with a Diploma in Computer Programming & Analysis.
+- 🏆 In 2021, I Graduated from Seneca College with an Advanced Diploma in Computer Programming & Analysis.
 - 🌟 2020, Internship as a Web Developer at TDSB (Toronto District School Board)
 
 ## 🔗 Connect with Me
